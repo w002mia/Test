@@ -1,0 +1,2999 @@
+Level: B1 Type: MCQ Question: (1) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (2) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (3) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (4) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (5) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (6) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (7) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (8) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (9) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (10) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (11) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (12) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (13) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (14) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (15) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (16) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (17) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (18) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (19) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (20) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (21) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (22) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (23) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (24) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (25) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (26) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (27) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (28) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (29) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (30) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (31) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (32) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (33) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (34) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (35) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (36) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (37) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (38) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (39) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (40) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (41) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (42) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (43) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (44) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (45) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (46) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (47) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (48) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (49) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (50) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (51) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (52) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (53) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (54) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (55) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (56) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (57) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (58) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (59) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (60) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (61) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (62) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (63) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (64) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (65) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (66) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (67) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (68) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (69) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (70) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (71) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (72) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (73) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (74) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (75) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (76) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (77) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (78) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (79) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (80) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (81) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (82) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (83) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (84) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (85) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (86) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (87) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (88) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (89) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (90) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (91) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (92) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (93) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (94) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (95) “Le soleil tourne autour de la Terre.”
+(Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (96) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (97) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (98) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (99) Choisissez la bonne réponse. “Je ____
+au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (100) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (101) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (102) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (103) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (104) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (105) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (106) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (107) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (108) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (109) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (110) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (111) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (112) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (113) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (114) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (115) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (116) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (117) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (118) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (119) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (120) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (121) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (122) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (123) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (124) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (125) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (126) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (127) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (128) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (129) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (130) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (131) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (132) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (133) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (134) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (135) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (136) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (137) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (138) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (139) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (140) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (141) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (142) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (143) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (144) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (145) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (146) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (147) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (148) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (149) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (150) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (151) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (152) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (153) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (154) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (155) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (156) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (157) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (158) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (159) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (160) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (161) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (162) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (163) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (164) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (165) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (166) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (167) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (168) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (169) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (170) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (171) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (172) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (173) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (174) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (175) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (176) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (177) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (178) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (179) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (180) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (181) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (182) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (183) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (184) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (185) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (186) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (187) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (188) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (189) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (190) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (191) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (192) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (193) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (194) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (195) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (196) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (197) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (198) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (199) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (200) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (201) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (202) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (203) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (204) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (205) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (206) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (207) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (208) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (209) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (210) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (211) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (212) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (213) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (214) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (215) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (216) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (217) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (218) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (219) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (220) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (221) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (222) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (223) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (224) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (225) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (226) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (227) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (228) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (229) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (230) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (231) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (232) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (233) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (234) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (235) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (236) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (237) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (238) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (239) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (240) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (241) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (242) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (243) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (244) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (245) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (246) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (247) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (248) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (249) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (250) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (251) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (252) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (253) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (254) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (255) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (256) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (257) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (258) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (259) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (260) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (261) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (262) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (263) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (264) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (265) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (266) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (267) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (268) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (269) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (270) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (271) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (272) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (273) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (274) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (275) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (276) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (277) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (278) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (279) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (280) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (281) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (282) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (283) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (284) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (285) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (286) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (287) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (288) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (289) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (290) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (291) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (292) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (293) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (294) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (295) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (296) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (297) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (298) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (299) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (300) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (301) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (302) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (303) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (304) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (305) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (306) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (307) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (308) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (309) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (310) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (311) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (312) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (313) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (314) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (315) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (316) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (317) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (318) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (319) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (320) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (321) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (322) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (323) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (324) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (325) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (326) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (327) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (328) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (329) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (330) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (331) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (332) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (333) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (334) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (335) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (336) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (337) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (338) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (339) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (340) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (341) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (342) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (343) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (344) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (345) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (346) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (347) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (348) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (349) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (350) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (351) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (352) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (353) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (354) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (355) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (356) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (357) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (358) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (359) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (360) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (361) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (362) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (363) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (364) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (365) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (366) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (367) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (368) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (369) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (370) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (371) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (372) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (373) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (374) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (375) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (376) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (377) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (378) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (379) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (380) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (381) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (382) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (383) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (384) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (385) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (386) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (387) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (388) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (389) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (390) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (391) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (392) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (393) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (394) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (395) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (396) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (397) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (398) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (399) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (400) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (401) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (402) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (403) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (404) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (405) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (406) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (407) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (408) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (409) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (410) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (411) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (412) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (413) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (414) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (415) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (416) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (417) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (418) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (419) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (420) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (421) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (422) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (423) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (424) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (425) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (426) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (427) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (428) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (429) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (430) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (431) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (432) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (433) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (434) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (435) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (436) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (437) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (438) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (439) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (440) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (441) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (442) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (443) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (444) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (445) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (446) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (447) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (448) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (449) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (450) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (451) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (452) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (453) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (454) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (455) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (456) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (457) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (458) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (459) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (460) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (461) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (462) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (463) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (464) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (465) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (466) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (467) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (468) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (469) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (470) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (471) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (472) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (473) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (474) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (475) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (476) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (477) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (478) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (479) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (480) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (481) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (482) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (483) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (484) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (485) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (486) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (487) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (488) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (489) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (490) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (491) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (492) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (493) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (494) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (495) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (496) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (497) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (498) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (499) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (500) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (501) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (502) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (503) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (504) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (505) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (506) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (507) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (508) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (509) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (510) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (511) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (512) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (513) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (514) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (515) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (516) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (517) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (518) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (519) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (520) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (521) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (522) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (523) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (524) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (525) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (526) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (527) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (528) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (529) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (530) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (531) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (532) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (533) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (534) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (535) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (536) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (537) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (538) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (539) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (540) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (541) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (542) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (543) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (544) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (545) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (546) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (547) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (548) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (549) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (550) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (551) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (552) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (553) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (554) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (555) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (556) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (557) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (558) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (559) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (560) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (561) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (562) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (563) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (564) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (565) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (566) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (567) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (568) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (569) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (570) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (571) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (572) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (573) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (574) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (575) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (576) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (577) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (578) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (579) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (580) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (581) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (582) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (583) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (584) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (585) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (586) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (587) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (588) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (589) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (590) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (591) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (592) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (593) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (594) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (595) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (596) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (597) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (598) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (599) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (600) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (601) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (602) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (603) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (604) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (605) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (606) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (607) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (608) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (609) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (610) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (611) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (612) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (613) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (614) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (615) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (616) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (617) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (618) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (619) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (620) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (621) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (622) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (623) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (624) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (625) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (626) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (627) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (628) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (629) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (630) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (631) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (632) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (633) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (634) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (635) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (636) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (637) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (638) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (639) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (640) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (641) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (642) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (643) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (644) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (645) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (646) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (647) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (648) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (649) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (650) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (651) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (652) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (653) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (654) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (655) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (656) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (657) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (658) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (659) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (660) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (661) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (662) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (663) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (664) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (665) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (666) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (667) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (668) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (669) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (670) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (671) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (672) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (673) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (674) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (675) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (676) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (677) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (678) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (679) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (680) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (681) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (682) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (683) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (684) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (685) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (686) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (687) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (688) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (689) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (690) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (691) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (692) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (693) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (694) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (695) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (696) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (697) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (698) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (699) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (700) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (701) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (702) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (703) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (704) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (705) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (706) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (707) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (708) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (709) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (710) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (711) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (712) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (713) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (714) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (715) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (716) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (717) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (718) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (719) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (720) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (721) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (722) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (723) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (724) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (725) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (726) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (727) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (728) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (729) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (730) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (731) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (732) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (733) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (734) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (735) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (736) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (737) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (738) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (739) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (740) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (741) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (742) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (743) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (744) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (745) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (746) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (747) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (748) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (749) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (750) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (751) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (752) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (753) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (754) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (755) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (756) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (757) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (758) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (759) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (760) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (761) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (762) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (763) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (764) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (765) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (766) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (767) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (768) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (769) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (770) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (771) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (772) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (773) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (774) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (775) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (776) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (777) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (778) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (779) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (780) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (781) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (782) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (783) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (784) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (785) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (786) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (787) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (788) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (789) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (790) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (791) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (792) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (793) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (794) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (795) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (796) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (797) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (798) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (799) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (800) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (801) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (802) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (803) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (804) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (805) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (806) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (807) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (808) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (809) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (810) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (811) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (812) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (813) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (814) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (815) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (816) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (817) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (818) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (819) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (820) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (821) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (822) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (823) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (824) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (825) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (826) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (827) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (828) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (829) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (830) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (831) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (832) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (833) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (834) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (835) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (836) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (837) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (838) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (839) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (840) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (841) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (842) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (843) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (844) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (845) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (846) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (847) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (848) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (849) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (850) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (851) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (852) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (853) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (854) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (855) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (856) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (857) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (858) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (859) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (860) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (861) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (862) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (863) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (864) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (865) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (866) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (867) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (868) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (869) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (870) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (871) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (872) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (873) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (874) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (875) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (876) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (877) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (878) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (879) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (880) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (881) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (882) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (883) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (884) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (885) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (886) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (887) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (888) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (889) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (890) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (891) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (892) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (893) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (894) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (895) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (896) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (897) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (898) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (899) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (900) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (901) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (902) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (903) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (904) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (905) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (906) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (907) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (908) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: MCQ Question: (909) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (910) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: MCQ Question: (911) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (912) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (913) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (914) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (915) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (916) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (917) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (918) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (919) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (920) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (921) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (922) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (923) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (924) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (925) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (926) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (927) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (928) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (929) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (930) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (931) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (932) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (933) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (934) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (935) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (936) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (937) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (938) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (939) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (940) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (941) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (942) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (943) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (944) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (945) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (946) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (947) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (948) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (949) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (950) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (951) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (952) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (953) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (954) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (955) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (956) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: TF Question: (957) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (958) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (959) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (960) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (961) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (962) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (963) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (964) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (965) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (966) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: MCQ Question: (967) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (968) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (969) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (970) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (971) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: TF Question: (972) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C1 Type: TF Question: (973) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: MCQ Question: (974) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (975) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (976) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (977) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (978) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: TF Question: (979) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A1 Type: MCQ Question: (980) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B1 Type: MCQ Question: (981) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (982) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (983) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: TF Question: (984) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: TF Question: (985) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (986) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: A2 Type: TF Question: (987) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B2 Type: MCQ Question: (988) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A2 Type: TF Question: (989) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: B1 Type: TF Question: (990) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (991) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: MCQ Question: (992) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: MCQ Question: (993) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: A1 Type: TF Question: (994) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: TF Question: (995) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
+
+Level: C2 Type: MCQ Question: (996) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C1 Type: MCQ Question: (997) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (998) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: B2 Type: MCQ Question: (999) Choisissez la bonne réponse. “Je
+____ au marché hier.” A) vais B) suis allé(e) C) irai D) aller Answer: B
+
+Level: C2 Type: TF Question: (1000) “Le soleil tourne autour de la
+Terre.” (Vrai/Faux) Answer: Faux
