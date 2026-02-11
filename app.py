@@ -4,7 +4,7 @@ from flask import Flask, render_template_string, request, redirect, url_for, ses
 import os
 
 app = Flask(__name__)
-app.secret_key = "super_secret_key"
+app.secret_key = "12345"
 
 QUESTIONS_FILE = "french_placement_1000_questions.txt"
 
