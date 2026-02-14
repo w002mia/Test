@@ -6,7 +6,8 @@ from flask import Flask, render_template_string, request, redirect, url_for, ses
 app = Flask(__name__)
 app.secret_key = os.environ.get("SECRET_KEY", "dev_secret_key")
 
-QUESTIONS_FILE = "french_placement_1000_questions.txt"
+QUESTIONS_FILE = os.path.join(os.path.dirname(__file__), "french_placement_1000_questions.txt")
+
 
 # ---------------------------------------------------
 # SAFE QUESTION LOADER (CRASH-PROOF)
