@@ -23,34 +23,58 @@ def load_questions():
     with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
         lines = [line.strip() for line in f if line.strip()]
 
-    q = {}
-    options = []
+    for line in lines:
+        q = {}
 
-    for line in lines + [""]:  # Add blank to flush last question
-        if line.startswith("Level:"):
-            if q and "question" in q:
-                q["options"] = options
-                questions.append(q)
-                q = {}
-                options = []
-            q["level"] = line.replace("Level:", "").strip()
-        elif line.startswith("Type:"):
-            q["type"] = line.replace("Type:", "").strip()
-        elif line.startswith("Question:"):
-            q["question"] = line.replace("Question:", "").strip()
-        elif line.startswith(("A)", "B)", "C)", "D)")):
-            options.append(line)
-        elif line.startswith("Answer:"):
-            q["answer"] = line.replace("Answer:", "").strip()
-        elif line == "":
-            if q and "question" in q:
-                q["options"] = options
-                questions.append(q)
-                q = {}
-                options = []
+        # Extract Level
+        if "Level:" in line:
+            try:
+                level_part = line.split("Level:")[1].split("Type:")[0].strip()
+                q["level"] = level_part
+            except:
+                continue
+
+        # Extract Type
+        if "Type:" in line:
+            try:
+                type_part = line.split("Type:")[1].split("Question:")[0].strip()
+                q["type"] = type_part
+            except:
+                continue
+
+        # Extract Question
+        if "Question:" in line:
+            try:
+                question_part = line.split("Question:")[1].split("A)")[0].strip()
+                q["question"] = question_part
+            except:
+                continue
+
+        # Extract Options (A) ... D))
+        options = []
+        for opt in ["A)", "B)", "C)", "D)"]:
+            if f"{opt} " in line:
+                part = line.split(f"{opt} ")[1]
+                # For next option, split by next option letter
+                for next_opt in ["A)", "B)", "C)", "D)"]:
+                    if next_opt != opt and f"{next_opt} " in part:
+                        part = part.split(f"{next_opt} ")[0].strip()
+                options.append(f"{opt} {part.strip()}")
+        q["options"] = options
+
+        # Extract Answer
+        if "Answer:" in line:
+            answer_part = line.split("Answer:")[1].strip()
+            q["answer"] = answer_part
+
+        # Only append if question, type, answer exist
+        if "question" in q and "type" in q and "answer" in q:
+            questions.append(q)
 
     print("TOTAL VALID QUESTIONS LOADED:", len(questions))
     return questions
+
+
 
 ALL_QUESTIONS = load_questions()
 
