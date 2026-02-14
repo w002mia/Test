@@ -20,48 +20,36 @@ def load_questions():
         return questions
 
     with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
+        lines = [line.strip() for line in f if line.strip()]
 
-    blocks = content.split("Level:")
+    q = {}
+    options = []
 
-    for block in blocks:
-        block = block.strip()
-        if not block:
-            continue
-
-        lines = [line.strip() for line in block.split("\n") if line.strip()]
-
-        level = None
-        qtype = None
-        question_line = None
-        options = []
-        answer = None
-
-        for line in lines:
-            if line.startswith("Level:"):
-                level = line.replace("Level:", "").strip()
-            elif line.startswith("Type:"):
-                qtype = line.replace("Type:", "").strip()
-            elif line.startswith("Question:"):
-                question_line = line.replace("Question:", "").strip()
-            elif line.startswith(("A)", "B)", "C)", "D)")):
-                options.append(line)
-            elif line.startswith("Answer:"):
-                answer = line.replace("Answer:", "").strip()
-
-        # Only append valid questions
-        if level and qtype and question_line and answer:
-            questions.append({
-                "level": level,
-                "type": qtype,
-                "question": question_line,
-                "options": options,
-                "answer": answer
-            })
+    for line in lines + [""]:  # Add blank to flush last question
+        if line.startswith("Level:"):
+            if q and "question" in q:
+                q["options"] = options
+                questions.append(q)
+                q = {}
+                options = []
+            q["level"] = line.replace("Level:", "").strip()
+        elif line.startswith("Type:"):
+            q["type"] = line.replace("Type:", "").strip()
+        elif line.startswith("Question:"):
+            q["question"] = line.replace("Question:", "").strip()
+        elif line.startswith(("A)", "B)", "C)", "D)")):
+            options.append(line)
+        elif line.startswith("Answer:"):
+            q["answer"] = line.replace("Answer:", "").strip()
+        elif line == "":
+            if q and "question" in q:
+                q["options"] = options
+                questions.append(q)
+                q = {}
+                options = []
 
     print("TOTAL VALID QUESTIONS LOADED:", len(questions))
     return questions
-
 
 ALL_QUESTIONS = load_questions()
 
@@ -184,10 +172,6 @@ def index():
         session["score"] = 0
 
         total_available = len(ALL_QUESTIONS)
-
-        if total_available < 1:
-            return "No questions available."
-
         number_to_select = min(40, total_available)
 
         session["selected_questions"] = random.sample(
@@ -206,6 +190,11 @@ def index():
         if current < len(session["selected_questions"]):
             user_answer = request.form.get("answer")
             correct_answer = session["selected_questions"][current]["answer"]
+
+            # MCQ answers: compare first letter
+            if session["selected_questions"][current]["type"] == "MCQ":
+                user_answer = user_answer.upper().strip()
+                correct_answer = correct_answer[0].upper().strip()
 
             if user_answer == correct_answer:
                 session["score"] += 1
@@ -240,6 +229,8 @@ def index():
 def result():
     score = session.get("score", 0)
     total = len(session.get("selected_questions", []))
+
+    session.clear()  # <-- Clear session after finishing test
 
     return f"""
     <h2 style='background-color:#ff6b6b;color:white;padding:30px;text-align:center;'>
